@@ -1,0 +1,32 @@
+MIT License
+
+Copyright (c) 2026 Narendra Adi Wicaksana (Exevour)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Not covered by this licence:
+- The Spotify logos, icons and "Like" marks in Resources\ are Spotify AB's trademarks, included unaltered as
+  Spotify's design guidelines ask for apps showing its content. Use them only as those guidelines allow.
+- Muxevour itself (Muxevour.exe, which this plugin is built against) is not open source: see its own licence.
+- librespot is not part of this plugin; it is downloaded only after the user agrees to its terms (MIT, by the
+  librespot-org contributors).
+
+This plugin is unofficial: it is not made, supported or approved by Spotify.
