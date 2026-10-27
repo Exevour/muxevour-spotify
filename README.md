@@ -1,0 +1,1 @@
+# Spotify for Muxevour (plugin)
